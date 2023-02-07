@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasun Madhulal Weerasekara</h1>
 <h3 align="center">A Passionate Android Mobile and MERN Developer </h3>
 
-<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasunm12&label=Profile%20views&color=0e75b6&style=flat" alt="kasunm12" /> </p>
 
