@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasunm12" alt="kasunm12" /></a> </p>
 
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 - 🔭 I’m currently working on **Java Android App and MERNG Stack Web Development**
 
 - 🌱 I’m currently learning **JAVA,XML Android and Figma UI Design**
@@ -16,7 +18,6 @@
 - 📫 How to reach me **kasunmadulal@gmail.com**
 - 📝 Owner AND Content Creater **EduLIE Solution Youtube channel**
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
